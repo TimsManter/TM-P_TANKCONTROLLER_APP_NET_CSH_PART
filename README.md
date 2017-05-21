@@ -1,4 +1,4 @@
-# Name
+# Arduino Tank Controller App
 
 * @Author: TimsManter
 * @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
