@@ -20,7 +20,7 @@
 
 <!-- /TOC -->
 
-| Icon | Description |
+Icon | Description
 :---: | ---
 ![Icon](assets/tank.png) | Serial client app I created to use it with Arduino Leonardo board to control my bigger project - Arduino Tank. App contains console with ability to read and write with specified connection speed (in bauds). The additional feature aside of standard serial console is predefined button grid that sends signals (text) to console and finally to Arduino. The purpose of that buttons is to control functions of Arduino Tank easily.
 
@@ -34,6 +34,6 @@ Binary download for Windows, require .NET Framework 4.5 installed to run.
 
 > TODO: Add screenshots of the app with connected Arduino board.
 
-| Compact | Expanded |
+Compact | Expanded
 :---: | :---:
 ![Normal Window](docs/screenshots/window.png) | ![Expanded Window](docs/screenshots/window_expand.png)
