@@ -22,7 +22,7 @@
 
 Icon | Description
 :---: | ---
-![Icon](assets/tank.png) | Serial client app I created to use it with Arduino Leonardo board to control my bigger project - Arduino Tank. App contains console with ability to read and write with specified connection speed (in bauds). The additional feature aside of standard serial console is predefined button grid that sends signals (text) to console and finally to Arduino. The purpose of that buttons is to control functions of Arduino Tank easily.
+![Icon](assets/tank.png) | Serial client app I created to use it with Arduino Leonardo board to control my bigger project - Arduino Tank. App contains console with ability to read and write with specified connection speed (in bauds). The additional feature aside of standard serial console is predefined buttons grid which sends signals (text) to console and finally to Arduino. The purpose of that buttons is to control functions of Arduino Tank easier.
 
 ## Download
 
