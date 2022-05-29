@@ -1,3 +1,7 @@
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Repo moved here 👉 https://github.com/SelfRef/tank-controller
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 # Arduino Tank Controller App
 
 * @Author: TimsManter
